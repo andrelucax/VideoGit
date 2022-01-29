@@ -1,3 +1,5 @@
 # VideoGit
 
-Lieverton
+Autores:
+* André Lucas de Sousa Pinto (Sr. Pinto)
+* Lieverton
